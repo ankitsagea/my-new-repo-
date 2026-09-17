@@ -1,0 +1,1 @@
+To book a service on Fixora, a rider selects their vehicle type and the service they need, such as a general checkup, oil change, or brake repair. The app then shows nearby verified mechanics with their prices and ratings. Once a mechanic is selected, the rider can schedule a pickup or drop-off time.
